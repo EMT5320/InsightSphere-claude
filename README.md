@@ -1,4 +1,14 @@
-# InsightSphere - 加密货币数据可视化仪表盘
+# 🌐 InsightSphere
+### 实时加密货币数据可视化仪表盘
+
+![GitHub last commit](https://img.shields.io/github/last-commit/EMT5320/InsightSphere-claude)
+![GitHub repo size](https://img.shields.io/github/repo-size/EMT5320/InsightSphere-claude)
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Flask](https://img.shields.io/badge/flask-2.3+-green.svg)
+![Docker](https://img.shields.io/badge/docker-supported-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+> 🚀 一个现代化的加密货币数据可视化平台，提供实时市场数据、交互式图表和直观的用户界面。
 
 ## 项目简介
 
